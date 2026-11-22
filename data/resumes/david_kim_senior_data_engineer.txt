@@ -1,0 +1,29 @@
+DAVID KIM
+Chicago, IL | david.kim@email.com | github.com/dkim-data
+
+SUMMARY
+Senior Data Engineer with 7 years of experience constructing high-volume data platforms and real-time streaming architectures. Specialized in Apache Spark, Snowflake, Airflow, Python, and dimensional data modeling.
+
+WORK EXPERIENCE
+Senior Data Engineer | FinData Enterprise (2021 - Present)
+- Architected enterprise Snowflake data warehouse ingesting 5TB+ daily transaction data from Kafka streams.
+- Developed PySpark ETL jobs scheduled via Apache Airflow, processing complex batch transformations 4x faster.
+- Built automated data quality assertion suite using dbt and Great Expectations, catching data anomalies before production.
+- Optimized SQL warehouse query performance, lowering compute credit consumption by $120K annually.
+
+Data Engineer | Horizon Analytics (2018 - 2021)
+- Migrated legacy MySQL data warehouse to AWS Redshift, authoring modular PySpark pipelines.
+- Implemented Data Lake architecture on AWS S3 utilizing Apache Parquet columnar format.
+
+Data Analyst / SQL Developer | RetailMetrics Inc (2017 - 2018)
+- Designed SQL views, stored procedures, and Tableau business intelligence reports.
+
+EDUCATION
+M.S. in Data Science | Northwestern University (2015 - 2017)
+B.S. in Computer Science | University of Illinois Urbana-Champaign (2011 - 2015)
+
+CORE SKILLS
+Big Data Engines: Apache Spark, PySpark, Kafka, Hadoop
+Data Warehouses: Snowflake, Redshift, BigQuery
+Orchestration & Modeling: Apache Airflow, dbt, SQL, Dimensional Data Modeling (Kimball)
+Languages & Cloud: Python, SQL, Scala, AWS (S3, EMR, Glue)

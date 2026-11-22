@@ -1,0 +1,27 @@
+AMANDA FOSTER
+New York, NY | amanda.foster@email.com | linkedin.com/in/amandafoster-pm
+
+SUMMARY
+Lead Product Manager with 8 years of experience building B2B SaaS products from ideation to scale. Proven expertise in product strategy, roadmap planning, user analytics, and cross-functional leadership.
+
+WORK EXPERIENCE
+Lead Product Manager | CloudApp SaaS (2020 - Present)
+- Owned product vision and roadmap for flagship SaaS analytics platform, driving ARR growth from $5M to $18M.
+- Managed backlog, user stories, and sprint planning for 3 agile engineering squads (20+ engineers/designers).
+- Utilized Mixpanel and Amplitude product analytics to identify onboarding drop-offs, improving conversion by 28%.
+
+Senior Product Manager | NextGen Tools (2018 - 2020)
+- Launched API integrations marketplace product, acquiring 40+ strategic software partners.
+- Conducted customer discovery interviews with enterprise CTOs to prioritize roadmap features.
+
+Product Analyst | TechData Group (2016 - 2018)
+- Performed market research, competitive matrix analysis, and SQL queries for product usage trends.
+
+EDUCATION
+M.B.A. | Columbia Business School (2014 - 2016)
+B.A. in Economics | New York University (2010 - 2014)
+
+SKILLS
+Product: Product Strategy, Agile/Scrum, User Stories, Roadmap Prioritization, Market Research
+Analytics: Mixpanel, Amplitude, Google Analytics, SQL, A/B Testing
+Tools: Jira, Confluence, Figma, Productboard, Notion

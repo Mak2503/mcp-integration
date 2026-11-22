@@ -1,0 +1,35 @@
+RAHUL SHARMA
+Email: rahul.sharma@email.com | Phone: +1-555-014-9921 | Location: Austin, TX
+LinkedIn: linkedin.com/in/rahulsharma-py | GitHub: github.com/rahulsharma
+
+SUMMARY
+Senior Backend Engineer with 7+ years of experience specializing in Python, microservices architecture, and scalable RESTful APIs. Demonstrated success delivering high-concurrency systems handling millions of daily requests using Django, FastAPI, PostgreSQL, and Redis.
+
+WORK EXPERIENCE
+Senior Python Developer | TechScale Solutions (2021 - Present)
+- Designed and built high-performance backend services using FastAPI and PostgreSQL, reducing API latency by 42%.
+- Integrated Redis caching layer and Celery task queues for asynchronous notification processing.
+- Containerized microservices with Docker and managed deployments on Kubernetes (EKS).
+- Led a team of 4 software engineers in adopting test-driven development (TDD) with pytest.
+
+Backend Engineer | CloudNexus Inc. (2018 - 2021)
+- Developed RESTful web applications using Django and Django REST Framework for enterprise clients.
+- Optimized complex SQL queries and database schemas in PostgreSQL, cutting query execution time by half.
+- Configured CI/CD pipelines using GitHub Actions for automated linting and deployment.
+
+Junior Software Developer | DataPulse Labs (2017 - 2018)
+- Maintained legacy Python scripts and developed internal dashboard APIs.
+
+EDUCATION
+Master of Science in Computer Science | University of Texas at Austin (2015 - 2017)
+Bachelor of Technology in Computer Engineering | NIT Surathkal (2011 - 2015)
+
+SKILLS
+Programming: Python, SQL, Bash
+Frameworks: FastAPI, Django, Flask, Pytest
+Databases & Cache: PostgreSQL, MySQL, Redis, MongoDB
+DevOps & Cloud: Docker, Kubernetes, AWS (S3, EC2), CI/CD, Git
+Architectures: Microservices, REST APIs, Asynchronous Programming
+
+CERTIFICATIONS
+AWS Certified Developer – Associate

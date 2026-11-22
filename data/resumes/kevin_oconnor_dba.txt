@@ -1,0 +1,23 @@
+KEVIN O'CONNOR
+Philadelphia, PA | kevin.oconnor@db.io | linkedin.com/in/koconnor-dba
+
+SUMMARY
+Senior Database Administrator (DBA) with 8 years of experience managing PostgreSQL, MySQL, and Oracle high-availability database clusters. Skilled in query tuning, backup strategy, replication, and database security.
+
+WORK EXPERIENCE
+Senior Lead DBA | FinTech Data Systems (2019 - Present)
+- Administered 40+ production PostgreSQL and MySQL database instances handling high transactional throughput.
+- Implemented streaming replication, connection pooling (PgBouncer), and automated failover (Patroni).
+- Conducted query performance tuning and index optimization, reducing CPU utilization across database nodes by 35%.
+
+Database Administrator | Enterprise Systems Inc. (2016 - 2019)
+- Managed Oracle database backups (RMAN), disaster recovery planning, and schema migrations.
+- Authored complex PL/SQL scripts and database triggers.
+
+EDUCATION
+B.S. in Computer Science | Temple University (2012 - 2016)
+
+SKILLS
+Databases: PostgreSQL, MySQL, Oracle DB, Redis, MongoDB
+Skills: Query Tuning, Indexing, Replication, Disaster Recovery, PgBouncer, PL/SQL, Backup & Restore
+Operating Systems & Scripting: Linux (RHEL, Ubuntu), Bash, Python

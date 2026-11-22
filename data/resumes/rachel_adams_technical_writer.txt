@@ -1,0 +1,21 @@
+RACHEL ADAMS
+Portland, OR | rachel.adams@docs.io | racheladamsdocs.com
+
+SUMMARY
+Technical Writer with 4 years of experience authoring developer documentation, API references, user guides, and SDK documentation. Proficient in Markdown, OpenAPI/Swagger, Git, and Docs-as-Code workflows.
+
+WORK EXPERIENCE
+Senior Technical Writer | CloudAPI Systems (2022 - Present)
+- Created comprehensive API reference documentation using OpenAPI (Swagger) specification for 50+ REST endpoints.
+- Managed docs-as-code workflow utilizing Markdown, Hugo static site generator, and GitHub Pull Requests.
+- Reduced developer support tickets by 25% by authoring quickstart tutorials and code snippets in Python and JavaScript.
+
+Technical Writer | DevTools Corp (2020 - 2022)
+- Authored end-user manuals, release notes, and troubleshooting guides for developer CLI tools.
+
+EDUCATION
+B.A. in English & Technical Communication | Portland State University (2016 - 2020)
+
+SKILLS
+Documentation: OpenAPI / Swagger, Markdown, Docs-as-Code, Developer Portals, API Documentation
+Tools: Git, GitHub, Hugo, Docusaurus, Postman, Readme.io

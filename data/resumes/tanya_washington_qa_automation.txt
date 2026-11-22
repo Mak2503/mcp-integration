@@ -1,0 +1,23 @@
+TANYA WASHINGTON
+Raleigh, NC | tanya.w@qa.io | github.com/twashington-qa
+
+SUMMARY
+QA Automation Engineer with 5 years of experience building test automation frameworks for Web APIs and UI applications. Proficient in Selenium, Cypress, Pytest, Python, and CI/CD integration.
+
+WORK EXPERIENCE
+Senior QA Automation Engineer | QualityFirst Tech (2021 - Present)
+- Architected end-to-end web test automation framework from scratch using Python, Pytest, and Selenium WebDriver.
+- Implemented API automation test suites using Python Requests, reducing regression cycle execution time by 70%.
+- Integrated automated test runs into Jenkins CI/CD pipeline triggering on every pull request.
+
+QA Test Analyst | CloudApp Systems (2019 - 2021)
+- Authored 300+ manual and automated test cases using Cypress and JavaScript.
+- Reported and tracked defects in Jira, collaborating closely with backend Python developers.
+
+EDUCATION
+B.S. in Computer Science | North Carolina State University (2015 - 2019)
+
+SKILLS
+Testing Frameworks: Pytest, Selenium, Cypress, JUnit, Postman, RestAssured
+Languages: Python, JavaScript, Java, SQL
+Tools: Jenkins, GitHub Actions, Jira, Git, Docker

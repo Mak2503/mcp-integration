@@ -1,0 +1,21 @@
+ERIC LINDQVIST
+Minneapolis, MN | eric.l@embedded.io | github.com/elindqvist-c
+
+SUMMARY
+Embedded Systems Engineer with 6 years of experience programming microcontrollers, Real-Time Operating Systems (RTOS), and hardware device drivers using C, C++, ARM Cortex, and FreeRTOS.
+
+EXPERIENCE
+Senior Embedded Engineer | IoT Tech Systems (2021 - Present)
+- Developed firmware in C and C++ for ARM Cortex-M microcontrollers on IoT smart sensor products.
+- Implemented FreeRTOS multi-threading, task scheduling, and inter-process communication mechanisms.
+- Wrote low-level hardware communication drivers for I2C, SPI, UART, and CAN bus protocols.
+
+Embedded Firmware Developer | AutoSense Corp (2018 - 2021)
+- Authored embedded C code for automotive sensor control units following MISRA C coding guidelines.
+
+EDUCATION
+B.S. in Electrical & Computer Engineering | University of Minnesota (2014 - 2018)
+
+SKILLS
+Languages: Embedded C, C++, Assembly, Python (scripting)
+Hardware & RTOS: ARM Cortex, FreeRTOS, STM32, ESP32, I2C, SPI, UART, CAN, Oscilloscopes, Logic Analyzers

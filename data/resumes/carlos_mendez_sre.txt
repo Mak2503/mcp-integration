@@ -1,0 +1,25 @@
+CARLOS MENDEZ
+San Jose, CA | carlos.mendez@email.com | github.com/cmendez-sre
+
+SUMMARY
+Site Reliability Engineer (SRE) with 6 years of experience keeping enterprise cloud platforms reliable, performant, and secure. Expert in Kubernetes, Prometheus monitoring, chaos engineering, and Python/Bash automation.
+
+EXPERIENCE
+Senior SRE | CloudReliable Networks (2021 - Present)
+- Maintained 99.99% availability for enterprise microservices infrastructure running on Kubernetes (EKS).
+- Configured Prometheus, Grafana, and Alertmanager metrics dashboards, lowering mean time to detect (MTTD) by 50%.
+- Created automated incident escalation and remediation scripts in Python and Go.
+- Conducted blameless post-mortems and chaos testing experiments to identify single points of failure.
+
+Systems & DevOps Engineer | DataStream Tech (2018 - 2021)
+- Managed Infrastructure as Code with Terraform and Ansible on AWS.
+- Configured Nginx load balancers and automated SSL certificate renewals.
+
+EDUCATION
+B.S. in Computer Engineering | San Jose State University (2014 - 2018)
+
+TECHNICAL SKILLS
+Infrastructure: Kubernetes, Docker, Terraform, Helm, AWS, GCP
+Observability: Prometheus, Grafana, Datadog, Jaeger, OpenTelemetry
+Scripting & Languages: Python, Go, Bash, SQL
+OS & Networking: Linux (Ubuntu/RHEL), TCP/IP, DNS, Nginx

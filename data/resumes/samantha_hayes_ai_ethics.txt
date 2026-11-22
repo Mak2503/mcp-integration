@@ -1,0 +1,22 @@
+SAMANTHA HAYES
+Washington, DC | samantha.hayes@policy.io | linkedin.com/in/shayes-aipolicy
+
+SUMMARY
+AI Policy & Ethics Researcher with 4 years of experience conducting evaluations of LLM bias, AI safety guardrails, governance frameworks, and algorithmic fairness.
+
+EXPERIENCE
+AI Ethics Researcher | Responsible AI Institute (2022 - Present)
+- Authored algorithmic risk assessment frameworks for evaluating Large Language Model outputs for bias and toxicity.
+- Conducted red-teaming exercises on generative AI models to identify safety vulnerabilities.
+- Collaborated with AI engineering teams to define ethical guidelines for RAG and semantic search systems.
+
+Policy Analyst | Tech & Governance Center (2020 - 2022)
+- Researched international AI governance regulations (EU AI Act, NIST AI RMF).
+
+EDUCATION
+M.P.P. (Master of Public Policy) | Georgetown University (2018 - 2020)
+B.A. in Philosophy & Political Science | Johns Hopkins University (2014 - 2018)
+
+SKILLS
+Research: AI Ethics, LLM Red-Teaming, Algorithmic Bias, AI Governance, NIST AI RMF, EU AI Act
+Tools: Python (data analysis), Markdown, Survey Design
